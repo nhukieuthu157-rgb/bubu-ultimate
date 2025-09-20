@@ -1,0 +1,1 @@
+Prompt for Bubu: Use Skyscanner to check cheapest flights from [origin] to [destination] in [month]. Return airline, stopovers, price range, and duration. Use flexible dates if possible.

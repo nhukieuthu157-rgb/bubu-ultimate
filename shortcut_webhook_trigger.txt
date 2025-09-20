@@ -1,0 +1,1 @@
+Use with GET: https://yourdomain.com/trigger?cmd=run_shortcut

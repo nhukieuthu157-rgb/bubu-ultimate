@@ -1,0 +1,1 @@
+def monitor(): return 'Price dropped 14%, alert user via LINE'

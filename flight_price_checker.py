@@ -1,0 +1,1 @@
+def check_flights(): return 'RM329 KUL-BKK direct'

@@ -1,0 +1,1 @@
+def split_clipboard(text): return text.split(' ')

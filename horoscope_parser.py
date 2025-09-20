@@ -1,0 +1,1 @@
+def horoscope(): return 'Today you will get scammed if you use ShopeePay.'

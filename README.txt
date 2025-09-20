@@ -1,0 +1,1 @@
+This pack includes sample APIs and example prompts to help Bubu check and compare flight prices automatically. Sources include Skyscanner, Traveloka, Google Flights, and more.

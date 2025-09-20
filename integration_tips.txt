@@ -1,0 +1,4 @@
+Tips:
+- Use IFTTT or Zapier to connect price alerts to LINE.
+- Use Shortcuts + API with webhook GET/POST requests.
+- Combine with location/time to auto-check flight options when traveling.

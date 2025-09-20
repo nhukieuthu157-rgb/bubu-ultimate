@@ -1,0 +1,1 @@
+Prompt for Bubu: Monitor Google Flights for route [origin]-[destination]. Track if fare drops more than 10% and alert user via LINE or Siri Shortcut.
